@@ -1,7 +1,9 @@
-# Simple and Multiples Mediations
+# Simple and Multiple Mediations
 
 ## Overview
-In this project I analyze a subset of data from the Job Search Intervention Study (JOBSII), which was a longitudinal study of well-being among 899 residents of the U.S. stateof Michigan who were unemployed when they were recruited for the study. 
+In this project I analyze a subset of data from the Job Search Intervention Study (JOBS
+II), which was a longitudinal study of well-being among 899 residents of the U.S. state
+of Michigan who were unemployed when they were recruited for the study. 
 
 For more information on this study, see:
 Vinokur, A. D., & Schul, Y. (1997). Mastery and inoculation against setbacks as active ingredients in the JOBS intervention for the unemployed. Journal of Consulting and Clinical Psychology, 65(5), 867-877.
