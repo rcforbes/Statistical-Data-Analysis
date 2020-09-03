@@ -1,7 +1,7 @@
 # Path Analysis
 
 ## Overview
-In this project I analyze a dataset containing ratings of different cognitive abilities, personality characteristics, and expressed interest in various careers.
+In this project I analyze a dataset containing ratings of different cognitive abilities, personality characteristics, and expressed interest in various careers. I predict interest in a firefighter career using three path models and compare for best fit.
 
 ## Variables
 The dataset (interest.csv) includes:
