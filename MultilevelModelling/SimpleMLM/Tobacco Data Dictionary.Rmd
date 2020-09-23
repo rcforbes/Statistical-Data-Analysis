@@ -1,0 +1,13 @@
+---
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+TobaccoData = read.delim("TobaccoLegislators.dat")
+library(summarytools)
+```
+
+```{r, echo = FALSE, results='asis'}
+dfSummary(TobaccoData, plain.ascii = FALSE, style = "grid", tmp.img.dir = "/tmp")
+```
