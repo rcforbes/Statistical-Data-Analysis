@@ -1,4 +1,4 @@
-# Simple MLM
+# Advanced MLM
 
 ## Overview
 In this project I analyze a dataset collected by Tritt, Page-Gould, Peterson, and Inzlicht (2014) on Event-Related Potentials from EEG.
@@ -20,7 +20,7 @@ In the associated R file:
 - I modelled the relationship between feedback type and ERP, moderated by neuroticism with a 3-level model and a cross-classified model
 - I compared both models, and chose the best model based on fit statistics.
 - I calculated ICC and effect sizes for the random slope model
-- I then created a Figure to visualize the reuslts
+- I then created a figure to visualize the reuslts
 
 ## Results
 Results are written up in the associated .docx file.
